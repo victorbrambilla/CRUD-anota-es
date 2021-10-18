@@ -1,5 +1,5 @@
 # CRUD-anota-es
-:bulb:Crud de anotações
+
 <h1>Crud anotações</h1>
 <hr>
 <br>
